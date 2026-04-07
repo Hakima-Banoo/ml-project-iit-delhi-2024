@@ -43,6 +43,17 @@ A sample dataset is available in this repository for reference.
 
 ---
 
+## 📸 Results Preview
+
+### Output Example
+![Graph](output1.png)
+
+
+### Graph
+![Graph](Spectogram.png)
+
+![Graph](Transcription&Ploting.png)
+
 ## 📈 Results
 - Achieved good performance on test data  
 - Model shows effective prediction capability  
