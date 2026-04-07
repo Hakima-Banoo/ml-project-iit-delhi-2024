@@ -46,13 +46,14 @@ A sample dataset is available in this repository for reference.
 ## 📸 Results Preview
 
 ### Output Example
-![Graph](output1.png)
+![Output](output1.png)
 
 
-### Graph
-![Graph](Spectogram.png)
+### Spectrogram
+![Spectrogram](Spectrogram.png)
 
-![Graph](Transcription&Ploting.png)
+### Transcription & Plotting
+![Transcription](Transcription&Ploting.png)
 
 ## 📈 Results
 - Achieved good performance on test data  
