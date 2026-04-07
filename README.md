@@ -23,7 +23,7 @@ The goal of this project is to:
 
 ## 📊 Dataset
 Due to size limitations, only a sample dataset is included here.  
-👉 Full dataset available here: (Add your Google Drive link)
+
 
 ## 📈 Results
 - Achieved good accuracy on test data
