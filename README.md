@@ -50,7 +50,7 @@ A sample dataset is available in this repository for reference.
 
 
 ### Spectrogram
-![Spectrogram](Spectrogram.png)
+![Spectrogram](Spectogram.png)
 
 ### Transcription & Plotting
 ![Transcription](Transcription&Ploting.png)
